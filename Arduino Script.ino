@@ -20,7 +20,7 @@ void loop() {
     return;
   }
 
-  // Lese Lichtwert vom LDR (Beispielwert)
+  // Lese Lichtwert vom LDR 
   int light = analogRead(A0);
 
   // Daten senden
